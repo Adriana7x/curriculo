@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CV</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156662228-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156662228-1');
+</script>
+
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="http://imgfz.com/i/Iipr6eD.jpeg" alt="imagen_perfil">
+     </div>
+     <div class="resume_content">
+
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">Adrián Yépez</p>
+           <p class="regular">Futuro Ing. Sistemas</p>
+         </div>
+         <ul>
+
+          <li>        
+           
+            <li>        
+            <div class="data">
+               CI: <br/>060456774-3
+             </div>
+           </li><br/> 
+
+          <li>        
+           <div class="data">
+               CELULAR <br/>0990141711
+             </div>
+           </li><br/>
+
+            <li>        
+            <div class="data">
+               CORREO: <br/>adrian.yepez@espoch.edu.ec
+             </div>
+           </li><br/> 
+
+           <li>
+            <div class="data">
+               DIRECCIÓN: <br/> Avda. Pedro Vicente Maldonado (Media Luna)
+             </div><br/>
+           </li>
+
+
+
+       </div>
+
+
+      
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Redes Sociales</p>
+         </div>
+         <ul>
+           <li>
+            
+             <div class="data">
+               <p class="semi-bold">Facebook</p>
+               <p>Adrian Yepez</p>
+             </div>
+           </li>
+           <li>
+           
+             <div class="data">
+               <p class="semi-bold">Twitter</p>
+               <p>@adrian.yepez1</p>
+             </div>
+           </li>
+           <li>
+             
+             <div class="data">
+               <p class="semi-bold">Instagram</p>
+               <p>@arin.yepez</p>
+             </div>
+           </li>
+           
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <h1 align="center"> CURRICULUM VITAE </h1>
+         </div>
+        <p></p>
+    </div>
+
+     <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">FORMACIÓN ACADÉMICA</p>
+         </div>
+      <ul>
+            <li>
+                <div class="date">PRIMARIA</div> 
+                <div class="info">
+                     <p class="semi-bold">Esc. José Mariano Borja</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">SECUNDARIA</div>
+              <div class="info">
+                     <p class="semi-bold"> Colegio "Anda Aguirre"</p>
+                </div>
+            </li>
+
+             <li>
+              <div class="date">UNIVERSIDAD</div>
+              <div class="info">
+                     <p class="semi-bold"> ESPOCH - Esc. Ingeniería en Sistemas</p>
+                     <p class="semi-bold"> </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">Formación Complementaria</p>
+         </div>
+        <ul>
+            <li>            
+                <div class="date">Certificacion Inglés - ESPOCH</div> 
+
+            </li>
+
+            <li>
+              <div class="date">Licencia de Conducir Tipo "B"</div>
+            </li>
+        
+            
+        </ul>
+    </div>
+   
+  <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">EXPERIENCIA LABORAL</p>
+         </div>
+        <ul>
+            <li>            
+                <div class="date">Practicas Pre- Profesionales</div>
+                Grupo de Energías Alterrnativas y Ambiente (GEAA)-ESPOCH
+
+            </li>
+
+            
+        </ul>
+    </div>
+   
+
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">HOBBY</p>
+         </div>
+        <ul>
+            <li>
+                
+                <div class="date">Jugar Fútbol</div> 
+
+            </li>
+
+            <li>
+              <div class="date">Tocar Guitarra - Bateria</div>
+            </li>
+        
+            
+        </ul>
+    </div>
+</div>
+
+
+</body>
+</html>
